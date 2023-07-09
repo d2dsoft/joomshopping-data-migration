@@ -2,6 +2,7 @@
 [JoomShopping Data Migration Tool](https://d2d-soft.com/41-joomshopping-migration) is a solution for migrating data to JoomShopping from the another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AmeriCommerce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/769-7246-americommerce-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [BigCommerce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/611-2602-bigcommerce-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [CS-Cart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/612-2607-cs-cart-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [CubeCart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/613-2612-cubecart-to-joomshopping-migration-tool.html#/72-entities-1000)
@@ -17,6 +18,7 @@
 - [osCommerce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/623-2657-oscommerce-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/624-2662-oxid-eshop-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [PrestaShop to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/625-2667-prestashop-to-joomshopping-migration-tool.html#/72-entities-1000)
+- [Salesforce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/717-6715-salesforce-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [Shopify to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/626-2672-shopify-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [VirtueMart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/627-2677-virtuemart-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [Volusion to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/640-5912-volusion-to-joomshopping-migration-tool.html#/72-entities-1000)
@@ -28,6 +30,7 @@
 - [ZenCart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/632-2702-zencart-to-joomshopping-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AmeriCommerce](https://www.americommerce.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
@@ -43,6 +46,7 @@
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
+- [Salesforce](https://www.salesforce.com/)
 - [Shopify](https://www.shopify.com/)
 - [VirtueMart](https://virtuemart.net/)
 - [Volusion](https://volusion.com/)
