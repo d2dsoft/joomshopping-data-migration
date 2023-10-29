@@ -3,6 +3,7 @@
 
 ## Products
 - [AmeriCommerce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/769-7246-americommerce-to-joomshopping-migration-tool.html#/72-entities-1000)
+- [Bagisto to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/935-8954-bagisto-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [BigCommerce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/611-2602-bigcommerce-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [CS-Cart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/612-2607-cs-cart-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [CubeCart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/613-2612-cubecart-to-joomshopping-migration-tool.html#/72-entities-1000)
@@ -34,6 +35,7 @@
 
 ## Supported Platforms
 - [AmeriCommerce](https://www.americommerce.com/)
+- [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
 - [CS-Cart](https://www.cs-cart.com/)
 - [CubeCart](https://www.cubecart.com/)
