@@ -2,6 +2,7 @@
 [JoomShopping Data Migration Tool](https://d2d-soft.com/41-joomshopping-migration) is a solution for migrating data to JoomShopping from the another platform. The tool support migrating many entity types (taxes, manufacturers, categories, products, customers, orders, reviews) with many options. The tool can work in the local environment or the online environment. We also provide the [Custom Migration Service](https://d2d-soft.com/migration-services/296-data-migration-customization.html) if you have a specific requirement. 
 
 ## Products
+- [AbanteCart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/1122-10860-abantecart-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [AmeriCommerce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/769-7246-americommerce-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [Bagisto to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/935-8954-bagisto-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [BigCommerce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/611-2602-bigcommerce-to-joomshopping-migration-tool.html#/72-entities-1000)
@@ -36,6 +37,7 @@
 - [ZenCart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/632-2702-zencart-to-joomshopping-migration-tool.html#/72-entities-1000)
 
 ## Supported Platforms
+- [AbanteCart](https://www.abantecart.com/)
 - [AmeriCommerce](https://www.americommerce.com/)
 - [Bagisto](https://bagisto.com/)
 - [BigCommerce](https://www.bigcommerce.com/)
