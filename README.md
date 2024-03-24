@@ -20,6 +20,7 @@
 - [Magento to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/620-2642-magento-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [MarketPress to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/621-2647-marketpress-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [OpenCart to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/622-2652-opencart-to-joomshopping-migration-tool.html#/72-entities-1000)
+- [osCMax to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/1189-11543-oscmax-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [osCommerce to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/623-2657-oscommerce-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [OXID-eShop to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/624-2662-oxid-eshop-to-joomshopping-migration-tool.html#/72-entities-1000)
 - [PrestaShop to JoomShopping Migration](https://d2d-soft.com/joomshopping-migration/625-2667-prestashop-to-joomshopping-migration-tool.html#/72-entities-1000)
@@ -55,6 +56,7 @@
 - [Magento](https://magento.com/)
 - MarketPress
 - [OpenCart](https://www.opencart.com/)
+- osCMax
 - [osCommerce](https://www.oscommerce.com/)
 - [OXID-eShop](https://www.oxid-esales.com)
 - [PrestaShop](https://www.prestashop.com)
